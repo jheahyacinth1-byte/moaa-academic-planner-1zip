@@ -1,0 +1,5 @@
+{
+  "name": "MOAA Academic Planner",
+  "description": "A specialized study timer and ECTS tracker inspired by the Norwegian 'Studiepoeng' system. Features a unique 'GOAT' progress visualization.",
+  "requestFramePermissions": []
+}
