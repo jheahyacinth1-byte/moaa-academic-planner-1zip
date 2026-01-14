@@ -32,5 +32,5 @@ export const MOCK_SCHEDULE: ScheduleEvent[] = [
   { id: '5', subjectCode: 'MAS130', day: 'Thursday', time: '09:15 - 11:00', location: 'Lab 3', week: 34 },
 ];
 
-// Cartoonish Goat Image
-export const GOAT_IMAGE_URL = "https://cdn-icons-png.flaticon.com/512/616/616430.png";
+// Logo Image
+export const GOAT_IMAGE_URL = "/assets/logo.png";
